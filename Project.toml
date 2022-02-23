@@ -1,0 +1,4 @@
+name = "AISC360"
+uuid = "1db2d2bc-e3e7-4742-b2c9-66c7ff3bf4b6"
+authors = ["Cris Moen <cris.moen@runtosolve.com>"]
+version = "0.1.0"
